@@ -1,4 +1,7 @@
 # PracticaGit
-## Para practicar los conceptos de git en un repositorio.
+## Objetivo: 
+Para practicar los conceptos de git en un repositorio.
 
-### Autor: Luis Ignacio Ferro Salinas
+## Autores:
+
+* Luis Ignacio Ferro Salinas 

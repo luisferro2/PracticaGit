@@ -2,7 +2,7 @@
 
 * Para practicar los conceptos de git en un repositorio.
 
-## Instalación
+# Instalación
 
 * Si se quiere instalar por alguna razón, correr:
 
@@ -10,10 +10,10 @@
 git clone http...
 ```
 
-## Uso
+# Uso
 
 * Este repositorio no se usa xd.
 
-## Participantes
+# Participantes
 
 * Luis Ferro

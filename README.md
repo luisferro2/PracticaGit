@@ -1,13 +1,10 @@
 # PracticaGit
-## Objetivo: 
-Para practicar los conceptos de git en un repositorio.
 
+* Para practicar los conceptos de git en un repositorio.
 
 ## Instalación
 
-
-Si se quiere instalar por alguna razón, instalar git y correr el comando:
-
+* Si se quiere instalar por alguna razón, correr:
 
 ```
 git clone http...
@@ -15,11 +12,8 @@ git clone http...
 
 ## Uso
 
-
 * Este repositorio no se usa xd.
 
-
 ## Participantes
-
 
 * Luis Ferro
